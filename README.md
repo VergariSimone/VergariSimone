@@ -24,41 +24,18 @@ Questo spazio raccoglie il mio percorso accademico e i miei progetti personali. 
 
 </div>
 
----
+### 📂 I Miei Progetti Universitari
 
-### 🎓 Academic Projects (Sapienza)
-
-Una selezione dei progetti più significativi sviluppati durante il corso di laurea.
-
-#### 📂 [WASAText]
-> **Focus:** Concorrenza, Gestione Processi, C  
-> Implementazione di un sistema client-server multithread per la gestione di... [breve descrizione tecnica]. Ho utilizzato primitive di sincronizzazione POSIX.
-
-#### 📂 [JTresette]
-> **Focus:** SQL, Database Design, Java/JDBC  
-> Progettazione completa dello schema ER e sviluppo di un'applicazione gestionale interfacciata a PostgreSQL.
-
-#### 📂 [Progetto_Sicurezza]
-> **Focus:** Strutture Dati, Complessità, C++  
-> Analisi sperimentale e implementazione di algoritmi di ordinamento e grafi.
-
----
-
-
-### 📈 GitHub Stats
+> 👉 **Esplora il codice:** Il codice sorgente di questi progetti è disponibile nelle **repository** pubbliche sul mio profilo.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VergariSimone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VergariSimone&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
-</div>
 
-<br />
+| Progetto | Corso / Materia | Tech Stack |
+| :--- | :--- | :---: |
+| **WASAText** | Programmazione Web | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi&logoColor=white) |
+| **JTresette** | Metodologie di Programmazione | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **SQLI** | Sicurezza | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
 
-<div align="center">
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
-  </p>
 </div>
 
 <!---
