@@ -28,9 +28,9 @@ Questo spazio raccoglie il mio percorso accademico e i miei progetti personali. 
 
 > 👉 **Esplora il codice:** Il codice sorgente di questi progetti è disponibile nelle **repository** pubbliche sul mio profilo.
 
-<div align="center">
+<div align="left">
 
-| Progetto | Corso / Materia | Tech Stack |
+| Progetto | Corso  | Tecnologie Utilizzate |
 | :--- | :--- | :---: |
 | **WASAText** | Programmazione Web | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapi&logoColor=white) |
 | **JTresette** | Metodologie di Programmazione | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
