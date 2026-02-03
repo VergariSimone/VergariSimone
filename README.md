@@ -44,10 +44,12 @@ Una selezione dei progetti più significativi sviluppati durante il corso di lau
 
 ---
 
+
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VergariSimone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=VergariSimone&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VergariSimone&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
 </div>
 
