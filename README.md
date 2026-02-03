@@ -10,7 +10,7 @@
 
 Sono uno studente di **Informatica** presso **Sapienza Università di Roma**, con un forte interesse per lo sviluppo software e l'ingegneria dei sistemi. 
 
-Questo spazio raccoglie il mio percorso accademico e i miei progetti personali. Il mio obiettivo è trasformare i concetti teorici appresi in università — dagli algoritmi ai sistemi distribuiti — in codice pulito, efficiente e ben documentato.
+Questo spazio raccoglie il mio percorso accademico e i miei progetti personali. Il mio obiettivo è trasformare i concetti teorici appresi in università in codice pulito, efficiente e ben documentato.
 
 ---
 
