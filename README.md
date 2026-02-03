@@ -30,15 +30,15 @@ Questo spazio raccoglie il mio percorso accademico e i miei progetti personali. 
 
 Una selezione dei progetti più significativi sviluppati durante il corso di laurea.
 
-#### 📂 [Nome Progetto Sistemi Operativi]
+#### 📂 [WASAText]
 > **Focus:** Concorrenza, Gestione Processi, C  
 > Implementazione di un sistema client-server multithread per la gestione di... [breve descrizione tecnica]. Ho utilizzato primitive di sincronizzazione POSIX.
 
-#### 📂 [Nome Progetto Basi di Dati]
+#### 📂 [JTresette]
 > **Focus:** SQL, Database Design, Java/JDBC  
 > Progettazione completa dello schema ER e sviluppo di un'applicazione gestionale interfacciata a PostgreSQL.
 
-#### 📂 [Nome Progetto Algoritmi]
+#### 📂 [Progetto_Sicurezza]
 > **Focus:** Strutture Dati, Complessità, C++  
 > Analisi sperimentale e implementazione di algoritmi di ordinamento e grafi.
 
